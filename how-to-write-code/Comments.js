@@ -10,3 +10,11 @@
    comments. */
 
    console.log("Comments make your code more readable by others.");
+   
+   /*example here
+   another type of comment.*/
+   
+   /*singular comment!*/
+   //commence comment
+
+   node comments  
